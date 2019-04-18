@@ -1,0 +1,15 @@
+Package: morrr
+Title: Page Console Output Like Unix More
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Adam",
+           family = "Gruer",
+           role = c("aut", "cre"),
+           email = "adamgruer@icloud.com")
+Description: Page console output in the R Console.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Language: es
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1.9000
